@@ -1,2 +1,2 @@
 # NES-Emulator
-Developping a NES Emulator in C++
+Developping a NES Emulator in C++ from scratch
